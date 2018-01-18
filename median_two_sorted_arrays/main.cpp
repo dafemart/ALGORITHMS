@@ -34,7 +34,7 @@ float median(int arr1[], int arr2[], int size_1, int size_2){
 
 
 int main(void){
-    int arr1[] = {900};
+    int arr1[] = {1,2,3,4};
     int arr2[] = {5,8,10,20};
 
     float med = median(arr1,arr2,5,5);
